@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laasya-bitra
-- 👀 I’m interested in Data Science and Cloud Computing Services(trained in GCP)
+- 👀 I’m interested in Deep Learning and Cloud Computing Services(trained in GCP)
 - 🌱 I’m currently learning AI & ML (Natural Language Processing)
 - 💞️ I’m looking to collaborate on Machine Learning with NLP analysis
 
